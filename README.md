@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Anugyagupta43
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning c++,html,css
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... twitter: @aanya043
 
 <!---
