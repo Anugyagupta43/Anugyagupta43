@@ -14,7 +14,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🎯 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -26,7 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugyagupta43&layout=compact&theme=tokyonight)
 
 ---
 
@@ -44,14 +49,9 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🔗 [Fashion Recommendation System](#)
-- 🔗 [Banking System EDA](#)
-- 🔗 [Top Companies Web Scraper](https://github.com/Anugyagupta43/topcompanies)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugyagupta43&layout=compact&theme=tokyonight)
+
 
 
 <p align="center">
