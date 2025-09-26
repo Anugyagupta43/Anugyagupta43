@@ -35,17 +35,7 @@
 
 ---
 
-### 📫 Connect with Me
 
-<p align="left">
-  <a href="[https://www.linkedin.com/in/anugyagupta43](https://www.linkedin.com/in/anugya-gupta-a448b824b/)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/anugyagupta43" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="30" height="30"/>
-  </a>
-</p>
 
 ---
 
